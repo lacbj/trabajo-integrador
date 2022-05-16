@@ -1,0 +1,61 @@
+.caja{background-color: white;
+
+width: 250px;
+
+height: 300px;
+
+padding: 10px;
+
+border: solid 4px rgb(15, 15, 213);
+ 
+margin-left: 10px;
+ 
+text-align: center;
+}
+.caja1{background-color: white;
+
+    width: 250px;
+    
+    height: 300px;
+    
+    padding: 10px;
+    
+    border: solid 4px rgb(42, 125, 39);
+     
+    margin-left: 10px;
+     
+    text-align: center;
+    }
+    .caja2{background-color: white;
+
+        width: 250px;
+        
+        height: 300px;
+        
+        padding: 10px;
+        
+        border: solid 4px rgb(199, 246, 31);
+         
+        margin-left: 10px;
+         
+        text-align: center;
+        }
+
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+.titulos{
+
+    text-align: center;
+}
+.formulario{
+    text-align: center;
+}
+.boton{
+    width: 325px;
+    font-size: 30px;
+    background-color: rgb(11, 202, 68);
+    border-radius: 5px;
+}
+
